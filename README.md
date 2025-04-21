@@ -14,4 +14,4 @@ This project implements **Huffman Coding**, a lossless data compression algorith
 - A text file named `huffman.txt` in the specified directory containing the text to compress.
 
 ## Installation
-1. Clone the repository: 'git clone https://github.com/Kanishkjain0510/Huffman-Encoding'
+1. Clone the repository: 'git clone https://github.com/Kanishkjain0510/Huffman-Encoding.git'
