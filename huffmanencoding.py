@@ -51,7 +51,7 @@ def huffman_decode(encoded_text, huffman_codes):
     return decoded_text
 
 # Read the text file
-with open('/home/kanishk-jain/Desktop/Github uploads/basic_ml/huffman.txt', 'r') as file:
+with open('your file path', 'r') as file:
     text = file.read()
 
 frequencies = calculate_frequencies(text)
